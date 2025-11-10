@@ -1,5 +1,3 @@
-# Reddit-Scraper-Library
-
 # 🦊 Reddit Scraper
 
 A lightweight Python library for scraping Reddit posts and comments using the [PRAW](https://praw.readthedocs.io/) API.  
