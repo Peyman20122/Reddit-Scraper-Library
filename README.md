@@ -35,3 +35,8 @@ pip install praw pandas
 - Python 3.8+
 - PRAW
 - pandas
+
+## 📜 License
+
+This project is licensed under the MIT License — see the LICENSE
+ file for details.
