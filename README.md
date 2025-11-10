@@ -19,3 +19,18 @@ This library helps you easily extract data from subreddits, posts, and comments 
 
 ```bash
 pip install praw pandas
+
+## 🧩 Class Overview
+
+| Method                              | Description                                      |
+| ----------------------------------- | ------------------------------------------------ |
+| `get_reddit()`                      | Returns a PRAW Reddit instance                   |
+| `get_subreddit(name)`               | Returns a subreddit object                       |
+| `get_submissions(subreddit, limit)` | Retrieves posts and comments from a subreddit    |
+| `get_data(subreddit_name, limit)`   | Creates a DataFrame and saves the results to CSV |
+
+## 🧰 Requirements
+
+- Python 3.8+
+- PRAW
+- pandas
