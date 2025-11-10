@@ -19,6 +19,7 @@ This library helps you easily extract data from subreddits, posts, and comments 
 
 ```bash
 pip install praw pandas
+```
 
 ## 🧩 Class Overview
 
