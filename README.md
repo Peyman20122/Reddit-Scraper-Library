@@ -1,6 +1,6 @@
 # 🦊 Reddit Scraper
 
-(<img width="1168" height="593" alt="image" src="https://github.com/user-attachments/assets/194177db-18d2-4970-9f81-2b97919e352d" />
+<img width="1168" height="593" alt="image" src="https://github.com/user-attachments/assets/194177db-18d2-4970-9f81-2b97919e352d" />
 
 A lightweight Python library for scraping Reddit posts and comments using the [PRAW](https://praw.readthedocs.io/) API.  
 This library helps you easily extract data from subreddits, posts, and comments into structured formats like pandas DataFrames or CSV files.
